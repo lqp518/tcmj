@@ -14,7 +14,6 @@
 6、其它麻将游戏界面
 ![dabb6f6391ec887a6e752599ccf0f9d0](https://user-images.githubusercontent.com/37776603/232384907-af5c7f27-6fad-4682-a800-2ef6c8a35b07.png)
 7、510K游戏界面
-![5eedb67dbc4db9d3a8ed8d0f3b98352f](https://user-images.githubusercontent.com/37776603/232384936-eb66c6df-76eb-4cd2-a6ab-1abb116feaef.png)
 ![142bef03ad4ee73a34e3cf0ee6675ff8](https://user-images.githubusercontent.com/37776603/232384952-62e8c0e3-94f4-426f-b37b-c55e485eb5ce.png)
 8、斗地主游戏界面
 ![1f20bf071518bacd2e50a44b6a123226](https://user-images.githubusercontent.com/37776603/232384969-48a932ad-012c-45a5-852c-e8e868a3ad04.png)
